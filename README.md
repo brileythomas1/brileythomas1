@@ -16,4 +16,4 @@ Just a few of my (ambitious) project ideas are:
  - "Google Maps" for different time periods and countries 🗺️
  - A Bible study website with expert interpretations and a variety of translations
 
-![A map of Tokugawa Period Japan](https://upload.wikimedia.org/wikipedia/commons/8/8a/Map_of_Japan_in_Provinces_in_time_of_Iyeyasu.jpg)
+![A map of Tokugawa Period Japan produced by Yale professor Fabian Drixler](https://www.geocurrents.info/wp-content/uploads/2016/01/Daimyo-Territories-Japan-Map.png)
