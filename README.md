@@ -10,10 +10,10 @@ Some of my work includes:
 
 Just a few of my (ambitious) project ideas are:
 
- - A website to simplify and consolidate the process of international travel ✈️
- - A hardcore, all-in-one language learning platform that encourages long-term user commitment 🈳
- - An accessible resource for engaging, quality history education 📗
- - "Google Maps" for different time periods and countries 🗺️
- - A Bible study website with expert interpretations and a variety of translations 📖
+ - A website to simplify and consolidate the process of international travel, inspired by my study abroad experience in Japan ✈️
+ - A hardcore, all-in-one language learning platform that encourages long-term user commitment as a response to the fragmented and often insufficient popular resources of language study 🈳
+ - A free resource for engaging, quality history education, similar to Rice University's OpenStax but also incorporating videos 📗
+ - "Google Maps" for different time periods and countries, bringing an entire new visual perspective to the study of history 🗺️
+ - A Bible study website with expert interpretations and a variety of translations (as well as information about the people and manuscripts behind creating them) to encourage scholarly, educated theological discussion 📖
 
 ![A map of Tokugawa Period Japan produced by Yale professor Fabian Drixler](https://www.geocurrents.info/wp-content/uploads/2016/01/Daimyo-Territories-Japan-Map.png)
