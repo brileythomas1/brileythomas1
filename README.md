@@ -16,4 +16,4 @@ Just a few of my (ambitious) project ideas are:
  - "Google Maps" for different time periods and countries, bringing an entire new visual perspective to the study of history 🗺️
  - A Bible study website with expert interpretations and a variety of translations (as well as information about the people and manuscripts behind creating them) to encourage scholarly, educated theological discussion 📖
 
-![A map of Tokugawa Period Japan produced by Yale professor Fabian Drixler](https://www.geocurrents.info/wp-content/uploads/2016/01/Daimyo-Territories-Japan-Map.png)
+<img src="https://www.geocurrents.info/wp-content/uploads/2016/01/Daimyo-Territories-Japan-Map.png" alt="A map of Tokugawa Japan produced by Yale professor Fabian Drixler" width="50%" height="50%">
